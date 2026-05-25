@@ -8,7 +8,7 @@ pkg update && pkg upgrade
 pkg install python
 ```
 ```
-curl -sSf https://github.com/urnafiz/AirKeyGen-Termux-Installer/master/installer.sh | bash
+curl -sSf https://raw.githubusercontent.com/urnafiz/AirKeyGen-Termux-Installer/refs/heads/main/installer.sh | bash
 ```
 ### Run
 Disable Wi-Fi, enable location in the system settings and run:
